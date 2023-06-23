@@ -1,0 +1,41 @@
+# Directorio de dependencias de PNPM
+.pnpm/
+
+# Archivo de bloqueo de PNPM
+pnpm-lock.yaml
+
+# Archivo de registro de PNPM
+pnpm-debug.log*
+
+# Directorio temporal de PNPM
+pnpm-store/
+
+# Directorio temporal de build de PNPM
+.pnpm_build/
+
+# Directorio de cache de PNPM
+.pnpm_cache/
+
+# Directorio de cache de compilación de PNPM
+.pnpm_packages/
+
+# Directorio de cache de archivos de compilación de PNPM
+.pnpm_tmp/
+
+# Directorio de cache de descargas de PNPM
+.pnpm_registry/
+
+# Directorio de cache de almacenamiento de descargas de PNPM
+.pnpm_home/
+
+# package-lock.json
+package-lock.json
+
+# dotenv environment variables file
+.env
+.env.test
+
+
+# Dependency directories
+node_modules/
+jspm_packages/
