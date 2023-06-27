@@ -1,4 +1,3 @@
-import * as timestamps from 'mongoose-timestamp'
 const { DataTypes } = require('sequelize')
 
 module.exports = (sequelize) => {
