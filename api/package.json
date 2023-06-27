@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "nodemon index.js"
   },
   "keywords": [],
   "author": "",
@@ -16,5 +16,8 @@
     "morgan": "^1.10.0",
     "mysql2": "^3.4.0",
     "sequelize": "^6.32.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.22"
   }
 }
